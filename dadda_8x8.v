@@ -1,28 +1,3 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 06.11.2024 21:24:03
-// Design Name: 
-// Module Name: dadda_8x8
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
-//Achutha Aswin Naick
-//S3 ECE 
-//Roll no. 03
-//LCD Course Project
 // 8 x 8 Dadda multiplier Verilog HDL Design
 // A - 8 bits , B - 8bits, y(output) - 16bits
 
