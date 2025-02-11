@@ -5,4 +5,4 @@ Design and Implementation of 8x8 Dadda Multiplier using Verilog HDL
 Xilinx Vivado
 
 ## Languages used
-C
+Verilog
